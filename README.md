@@ -58,6 +58,6 @@ Contributions to the Hover-Carousel project are highly appreciated! If you encou
 
 ## License
 
-Hover-Carousel is licensed under the MIT License. See the [LICENSE](License-File-Link) file for more details.
+Hover-Carousel is licensed under the MIT License. See the [LICENSE](https://github.com/ART3MISTICAL/hover-carousel/blob/main/LICENSE) file for more details.
 
 
