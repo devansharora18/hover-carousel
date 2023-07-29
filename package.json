@@ -1,6 +1,6 @@
 {
   "name": "hover-carousel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The carousel allows users to view a collection of images by hovering over the container and moving their mouse horizontally. The images are displayed in a smooth scrolling manner, giving a pleasant user experience.",
   "main": "index.js",
   "scripts": {
