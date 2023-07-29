@@ -37,7 +37,7 @@ const MyImageCarousel = () => {
   ];
 
   return (
-    <div style={{overflow: "hidden" }}>
+    <div>
       <HoverCarousel images={images} />
     </div>
   );
