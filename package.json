@@ -17,12 +17,16 @@
     "images",
     "scroll"
   ],
-  "author": "art3mistical",
+  "author": "devansharora18",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ART3MISTICAL/hover-carousel/issues"
   },
   "homepage": "https://github.com/ART3MISTICAL/hover-carousel#readme",
+  "peerDependencies": {
+	"react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
   "devDependencies": {
     "@babel/cli": "^7.22.9",
     "@babel/core": "^7.22.9",
