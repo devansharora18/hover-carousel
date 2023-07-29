@@ -37,7 +37,7 @@ var HoverCarousel = function HoverCarousel(_ref) {
       animated = setTimeout(function () {
         wrap.css("scroll-behavior", "auto");
         animated = null;
-      }, 200);
+      }, 500);
     };
     var onMouseMove = function onMouseMove(e) {
       if (animated) return;
