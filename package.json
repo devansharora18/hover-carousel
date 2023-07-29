@@ -1,0 +1,37 @@
+{
+  "name": "hover-carousel",
+  "version": "1.0.0",
+  "description": "The carousel allows users to view a collection of images by hovering over the container and moving their mouse horizontally. The images are displayed in a smooth scrolling manner, giving a pleasant user experience.",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-file index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ART3MISTICAL/hover-carousel.git"
+  },
+  "keywords": [
+    "carousel",
+    "hover",
+    "images",
+    "scroll"
+  ],
+  "author": "art3mistical",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ART3MISTICAL/hover-carousel/issues"
+  },
+  "homepage": "https://github.com/ART3MISTICAL/hover-carousel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}
